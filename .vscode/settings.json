@@ -1,0 +1,6 @@
+{
+	"editor.insertSpaces": false,
+	"C_Cpp.clang_format_style": "file",
+	"editor.formatOnSaveMode": "modifications",
+	"editor.formatOnSave": true
+}
